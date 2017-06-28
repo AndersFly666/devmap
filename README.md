@@ -114,12 +114,12 @@
 Рекомендуется ознакомиться с [алгоритмами](#Алгоритмы-) хотя бы на базововм уровне. Так как структуры данных реализованы с помощью алгоритмов, алгоритмы - с помощью структур данных.
 
 - [ ] Понимание:
-    - [ ] Списки
+    - [x] Списки
     - [ ] Хеш-таблица
-    - [ ] Стек
-    - [ ] Очередь
+    - [x] Стек
+    - [x] Очередь
     - [ ] Граф
-    - [ ] Связный список
+    - [x] Связный список
     - [ ] Деревья
     - [ ] Двоичное дерево поиска
 
@@ -134,17 +134,17 @@
 
 ### HTML & CSS [&uarr;](#Содержание)
 - [ ] Усвоить понятия:
-    - [ ] Верстка
-    - [ ] HTML 5
-    - [ ] Разметка
-    - [ ] Семантика
-    - [ ] Cтили
-    - [ ] Cелекторы
+    - [x] Верстка
+    - [x] HTML 5
+    - [x] Разметка
+    - [x] Семантика
+    - [x] Cтили
+    - [x] Cелекторы
     - [ ] Анимация
 
 - [ ] Документации, курсы:
     - [ ] [htmlbook](http://htmlbook.ru/)
-    - [ ] [HTML academy](https://htmlacademy.ru/)
+    - [x] [HTML academy](https://htmlacademy.ru/)
     - [ ] [Введение в schema.org (yandex)](https://yandex.ru/support/webmaster/schema-org/intro-schema-org.xml)
 
 ---
@@ -183,15 +183,15 @@
 
 ### Системы управления версиями [&uarr;](#Содержание)
 - [ ] Усвоить понятия:
-    - [ ] Ветвления
-    - [ ] Слияние
-    - [ ] Конфликты и их разрешение
-    - [ ] Версии проекта, теги
+    - [x] Ветвления
+    - [x] Слияние
+    - [x] Конфликты и их разрешение
+    - [x] Версии проекта, теги
     - [ ] Базовые принципы разработки ПО в VCS
     - [ ] Ежедневный цикл работы
 
-- [ ] Курс:
-    - [ ] [Git How To](https://githowto.com/ru)
+- [x] Курс:
+    - [x] [Git How To](https://githowto.com/ru)
 
 - [ ] Книга:
     - [ ] [Pro Git (Scott Chacon, Ben Straub)](https://git-scm.com/book/ru/v2)
@@ -431,7 +431,7 @@
     - [ ] Для PHP - [composer](https://getcomposer.org/)
     - [ ] Для Python - [pip](https://pypi.python.org/pypi/pip)
     - [ ] Для Ruby - [gem](https://rubygems.org/)
-    - [ ] Для Javascript - [npm](https://www.npmjs.com/)
+    - [x] Для Javascript - [npm](https://www.npmjs.com/)
 
 - [ ] Статьи:
     - [ ] [Composer — менеджер зависимостей для PHP (habrahabr)](https://habrahabr.ru/post/145946/)
@@ -477,30 +477,30 @@
 ## Карта развития Front-end разработчика [&uarr;](#Содержание)
 
 ### JavaScript [&uarr;](#Содержание)
-- [ ] Познакомиться с такими понятиями как:
-    - [ ] Переменные
-    - [ ] [Типы данных](#Типы-данных-)
-    - [ ] Функции
-    - [ ] Рекурсия
-    - [ ] Замыкания
-    - [ ] Область видимости
-    - [ ] Объекты
-    - [ ] События
-    - [ ] DOM
+- [x] Познакомиться с такими понятиями как:
+    - [x] Переменные
+    - [x] [Типы данных](#Типы-данных-)
+    - [x] Функции
+    - [x] Рекурсия
+    - [x] Замыкания
+    - [x] Область видимости
+    - [x] Объекты
+    - [x] События
+    - [x] DOM
 
 - [ ] Документации, книги:
     - [ ] [Eloquent JavaScript](https://karmazzin.gitbooks.io/eloquentjavascript_ru/content/)
-    - [ ] [learn.javascript](https://learn.javascript.ru/)
+    - [x] [learn.javascript](https://learn.javascript.ru/)
     - [ ] [ECMAScript 6 features](https://github.com/lukehoban/es6features)
 
 ---
 
 ### Адаптивный/отзывчивый веб-дизайн [&uarr;](#Содержание)
 - [ ] Усвоить понятия:
-    - [ ] Адаптивный веб-дизайн
+    - [x] Адаптивный веб-дизайн
     - [ ] Отзывчивый веб-дизайн
-    - [ ] Media queries
-    - [ ] Mobile first
+    - [x] Media queries
+    - [x] Mobile first
     - [ ] Graceful degradation
     - [ ] RESS
 
@@ -514,14 +514,14 @@
 **Цель** - познакомиться с наиболее популярными библиотеками JavaScript. Знать где и когда их применять.
 
 Список библиотек:
-- [ ] [jQuery](https://jquery.com/)
+- [x] [jQuery](https://jquery.com/)
 - [ ] [Underscore - набор полезных функций](http://underscorejs.org/)
 - [ ] [Modernizr - обнаруживает HTML5 и CSS3 функции в браузере пользователя](https://modernizr.com/)
-- [ ] [Babel - компилятор для написания JavaScript следующего поколения](https://babeljs.io/)
-- [ ] [Vue - создание интерактивных интерфейсов](http://vuejs.org/)
+- [x] [Babel - компилятор для написания JavaScript следующего поколения](https://babeljs.io/)
+- [x] [Vue - создание интерактивных интерфейсов](http://vuejs.org/)
 - [ ] [Three - 3D](http://threejs.org/)
 - [ ] [WOW - анимация при прокрутки страницы](http://mynameismatthieu.com/WOW/)
-- [ ] [Moment - Работа с датой и временем](http://momentjs.com/)
+- [x] [Moment - Работа с датой и временем](http://momentjs.com/)
 - [ ] [Mocha - написание тестов](https://mochajs.org/)
 
 Список наиболее популярных библиотек есть на [Javascripting](https://www.javascripting.com/)
@@ -529,15 +529,15 @@
 ---
 
 ### Препроцессоры CSS [&uarr;](#Содержание)
-- [ ] Усвоить понятия:
-    - [ ] Переменные
-    - [ ] Миксины
-    - [ ] Функции
-    - [ ] Импорт
-    - [ ] Минификация
+- [x] Усвоить понятия:
+    - [x] Переменные
+    - [x] Миксины
+    - [x] Функции
+    - [x] Импорт
+    - [x] Минификация
 
 - [ ] Список препроцессоров CSS:
-    - [ ] [Sass/Scss](http://sass-lang.com/)
+    - [x] [Sass/Scss](http://sass-lang.com/)
     - [ ] [Less](http://lesscss.org/)
     - [ ] [Stylus](http://stylus-lang.com/)
 
@@ -564,7 +564,7 @@
 ### Пакетный менеджер [&uarr;](#Содержание)
 - [ ] Список пакетных менеджеры:
     - [ ] [Bower](https://bower.io/)
-    - [ ] [npm](https://www.npmjs.com/)
+    - [x] [npm](https://www.npmjs.com/)
     - [ ] [Yarn](https://yarnpkg.com/)
 
 - [ ] Статьи:
@@ -575,7 +575,7 @@
 
 ### CSS фреймворки [&uarr;](#Содержание)
 - [ ] Список фреймворков:
-    - [ ] [Bootstrap](http://getbootstrap.com/)
+    - [x] [Bootstrap](http://getbootstrap.com/)
     - [ ] [Skeleton](http://getskeleton.com/)
     - [ ] [Foundation](http://foundation.zurb.com/)
 
@@ -589,7 +589,7 @@
 
 Список фреймворков:
 - [ ] [ReactJS](https://facebook.github.io/react/)
-- [ ] [AngularJS](https://angular.io/)
+- [x] [AngularJS](https://angular.io/)
 - [ ] [Backbone](http://backbonejs.org/)
 - [ ] [Ember](http://emberjs.com/)
 
